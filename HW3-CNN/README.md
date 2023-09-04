@@ -1,0 +1,1 @@
+This assignment is mainly about different kinds of Neural Networks. In the 1st programming exercise, I fitted a MLP neural network on a dataset containing ECG data. In the 2nd exercise, I implemented a MADALINE network from scratch to separate points belonging to two classes. In the 3rd and 4th exercise, a CNN and decision tree are used.
