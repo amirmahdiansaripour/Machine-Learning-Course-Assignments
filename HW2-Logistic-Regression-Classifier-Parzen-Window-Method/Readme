@@ -1,0 +1,2 @@
+This assignment is about using logistic regression classifier to separate points belonging to different labels (2nd exercise). Also, I have implemented the task of fitting different polinomial curves with regard to bias and variance errors on a set of points (1st exercise).
+Estimating the distribution of a feature through using Parzen Window method is also implemted in the third exercise of the simulation part.
