@@ -1,5 +1,5 @@
 # Machine-Learning-Course-Assignments
-Programming and theoretical assignments in Machine Learning Course, University of Tehran, Spring 2023. 
+Programming and Theoretical Assignments of Machine Learning Course, University of Tehran, Spring 2023. 
 
 A. 1st Assignment: This assignment is about Naive Bayes Classifier. In the second part of its simulation exercises, a heuristic classifier which obeys the same Bayes rule is designed to classify images belonging to sea and jungle scenes.
 
