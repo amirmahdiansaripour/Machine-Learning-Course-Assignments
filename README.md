@@ -1,7 +1,11 @@
 # Machine-Learning-Course-Assignments
 Programming and Theoretical Assignments of Machine Learning Course, University of Tehran, Spring 2023. 
 
-A. 1st Assignment: This assignment is about Naive Bayes Classifier. In the second part of its simulation exercises, a heuristic classifier which obeys the same Bayes rule is designed to classify images belonging to sea and jungle scenes.
+1st Assignment: This assignment is about Naive Bayes Classifier. In the second part of its simulation exercises, a heuristic classifier which obeys the same Bayes rule is designed to classify images belonging to sea and jungle scenes.
+
+![im1](./images/1_1.JPG)
+
+![im2](./images/1_2.JPG)
 
 B. 2nd Assignment: Implementation of logistic regression classifier to separate points belonging to different labels (2nd exercise). I have also implemented the task of fitting different polinomial curves with regard to bias and variance errors on a set of points (1st exercise).
 Estimating the distribution of a feature through using Parzen Window method is also implemented in the third exercise of the simulation part.
