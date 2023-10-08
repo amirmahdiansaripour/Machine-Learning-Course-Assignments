@@ -14,8 +14,20 @@ Estimating the distribution of a feature through using Parzen Window method is a
 
 ![im4](./images/2_2.JPG)
 
-C. 3rd Assignment: Different kinds of Neural Networks. In the 1st programming exercise, I fitted a MLP neural network on a dataset containing ECG data. In the 2nd exercise, I implemented a MADALINE network from scratch to separate points belonging to two classes. In the 3rd and 4th exercise, a CNN and a decision tree are used.
+3rd Assignment: Different kinds of Neural Networks. In the 1st programming exercise, I fitted a MLP neural network on a dataset containing ECG data. In the 2nd exercise, I implemented a MADALINE network from scratch to separate points belonging to two classes. In the 3rd and 4th exercise, a CNN and a decision tree are used.
 
-D. 4th Assignment: Support Vector Machine Classifier (SVM) is used to separate points belonging to two or more classes. The point about SVM is that it tries to classify in a way that the margin between two classes is maximized. In the first exercise, I fitted an SVM on Iris dataset to separate samples belonging to three classes. Different kernels (linear, RBF, polinomial) and different values for c and gamma hyperparameters have been tested. I also employed grid search to find the best values for model tuning.
+![im5](./images/3_1.JPG)
 
-E. 5th Assignment: Dimension reduction (PCA: unsupervised, LDA: supervised) are discussed. In the first exercise, I fitted an PCA on a dataset containing facial expression images. Other concepts such as displaying eigen values and trace value for separability matrix are also mentioned in the ipynb files. In the second exercise, I fitted a Gaussian Mixture Model containing of two components to cluster images belonging to two different labels.
+![im6](./images/3_2.JPG)
+
+4th Assignment: Support Vector Machine Classifier (SVM) is used to separate points belonging to two or more classes. The point about SVM is that it tries to classify in a way that the margin between two classes is maximized. In the first exercise, I fitted an SVM on Iris dataset to separate samples belonging to three classes. Different kernels (linear, RBF, polinomial) and different values for c and gamma hyperparameters have been tested. I also employed grid search to find the best values for model tuning.
+
+![im7](./images/4_1.JPG)
+
+![im8](./images/4_2.JPG)
+
+5th Assignment: Dimension reduction (PCA: unsupervised, LDA: supervised) are discussed. In the first exercise, I fitted an PCA on a dataset containing facial expression images. Other concepts such as displaying eigen values and trace value for separability matrix are also mentioned in the ipynb files. In the second exercise, I fitted a Gaussian Mixture Model containing of two components to cluster images belonging to two different labels.
+
+![im2](./images/5_1.JPG)
+
+![im2](./images/5_2.JPG)
